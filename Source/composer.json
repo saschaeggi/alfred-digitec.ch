@@ -1,0 +1,12 @@
+{
+    "name": "saschaeggenberger/alfredapp-digitec",
+    "authors": [
+        {
+            "name": "Sascha Eggenberger",
+            "email": "hello@saschaeggenberger.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "1.0.*@dev"
+    }
+}
